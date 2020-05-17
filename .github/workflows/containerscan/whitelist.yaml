@@ -1,7 +1,5 @@
 general:
-  
-images:
-  gopiacr.azurecr.io/nodejsapp:
+    commonVulnerabilities:
     - CVE-2019-3462
     - CVE-2016-7543
     - CVE-2019-9924
