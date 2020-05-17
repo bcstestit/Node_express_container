@@ -1,6 +1,9 @@
 name: Build
 
 on: push
+  branches:
+    - master
+
 env:
   CONTAINER_REGISTRY: ${{ secrets.REGISTRY_USERNAME }}.azurecr.io   # set secret with Container Registry name
 jobs:
