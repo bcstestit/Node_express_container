@@ -17,7 +17,7 @@
     "morgan": "^1.7.0",
     "pug": "^2.0.0-beta6",
     "serve-favicon": "^2.3.0",
-    "lodash":"^4.17.15"
+    "grunt":"^1.0.1"
   },
   "engines": {
     "node": "~6.10.x"
