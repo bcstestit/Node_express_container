@@ -1,5 +1,5 @@
 general:
- commonVulnerabilities:
+ vulnerabilities:
  - CVE-2019-3462
  - CVE-2016-7543
  - CVE-2016-10166
